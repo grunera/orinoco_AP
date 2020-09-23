@@ -1,4 +1,10 @@
-[
+
+{
+  "productListName" : "Ma Boutique de Teddy Bear",
+  "eshopName" : "Orinoco",
+  "created on" : 2020,
+  "active" : true,
+  "products" : [
     {
         "colors": [
             "Tan",
@@ -12,6 +18,7 @@
         "imageUrl": "http://localhost:3000/images/teddy_1.jpg",
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     },
+
     {
         "colors": [
             "Pale brown",
@@ -58,4 +65,6 @@
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "imageUrl": "http://localhost:3000/images/teddy_5.jpg"
     }
-]
+  ]
+
+}
